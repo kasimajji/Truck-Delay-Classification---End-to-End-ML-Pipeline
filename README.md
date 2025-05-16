@@ -522,7 +522,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Project Link: [https://github.com/username/Truck-Delay-Classification](https://github.com/username/Truck-Delay-Classification)
+Project Link: [kasi.majji24@gmail.com](https://github.com/username/Truck-Delay-Classification)
 
 ---
 
