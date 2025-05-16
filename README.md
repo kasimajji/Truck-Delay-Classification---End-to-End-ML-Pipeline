@@ -527,7 +527,7 @@ Project Link: [kasi.majji24@gmail.com](https://github.com/username/Truck-Delay-C
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-KasiMajji-red.svg"/>
+  <img src="https://img.shields.io/badge/Made%20by-KasiMajji-red.svg"/>
   <img src="https://img.shields.io/badge/Powered%20by-AWS%20SageMaker-orange.svg"/>
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 </p>
